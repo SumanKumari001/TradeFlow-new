@@ -1,2 +1,1 @@
-# Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+A MERN stack project based on trading website architecture.
